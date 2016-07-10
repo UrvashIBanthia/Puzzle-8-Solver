@@ -1,1 +1,2 @@
-# Puzzle-8-Solver
+# Puzzle8
+Puzzle 8
